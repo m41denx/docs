@@ -3,26 +3,25 @@
 layout: home
 
 hero:
-  name: "HYPRR"
-  text: "Документация хостинга HYPRR"
-  tagline: Чемоданчик
+  name: "Документация HYPRR"
+  tagline: Всё необходимое для работы с платформой
   image:
     src: /images/HYPRRLogo.png
     alt: HYPRR
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Начать знакомство
+      link: /wiki/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Частые вопросы
+      link: /faq/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Документация
+    details: Полное руководство по использованию платформы HYPRR
+  - title: FAQ
+    details: Ответы на часто задаваемые вопросы и решения распространенных проблем
+  - title: Туториалы
+    details: Полезные руководства и инструкции по различным темам
 ---
 
