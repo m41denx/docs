@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Документация HYPRR"
+  name: "HYPRR D⊘cs"
   tagline: Всё необходимое для работы с платформой
   image:
     src: /images/HYPRRLogo.png

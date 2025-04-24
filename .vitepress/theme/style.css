@@ -1,0 +1,10 @@
+/* Custom styles */
+:root {
+  --vp-home-hero-name-color: white;  /* Change this color to what you prefer */
+}
+
+/* If you want gradient, uncomment and modify these:
+:root {
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+}
+*/

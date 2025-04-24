@@ -1,6 +1,9 @@
 export default {
   title: "HYPRR - Документация",
   description: "Документация хостинга HYPRR",
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/icon.png' }],
+  ],
   themeConfig: {
     nav: [
       { text: 'Главная', link: '/' },
