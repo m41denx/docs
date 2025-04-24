@@ -1,4 +1,5 @@
 export default {
+  base: '/',
   title: "HYPRR - Документация",
   description: "Документация хостинга HYPRR",
   head: [
