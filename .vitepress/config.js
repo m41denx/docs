@@ -2,6 +2,7 @@ export default {
   base: '/',
   title: "HYPRR - Документация",
   description: "Документация хостинга HYPRR",
+  appearance: 'force-dark',
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/icon.png' }],
   ],
