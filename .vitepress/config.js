@@ -27,8 +27,7 @@ export default {
         {
           text: 'FAQ',
           items: [
-            { text: 'Общие вопросы', link: '/faq/' },
-            { text: 'Технические вопросы', link: '/faq/technical' }
+            { text: 'Общие вопросы', link: '/faq/' }
           ]
         }
       ],
