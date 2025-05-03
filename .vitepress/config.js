@@ -19,7 +19,8 @@ export default {
           text: 'Вики',
           items: [
             { text: 'Введение', link: '/wiki/' },
-            { text: 'Начало работы', link: '/wiki/getting-started' }
+            { text: 'Начало работы', link: '/wiki/getting-started' },
+            { text: 'Список нод', link: '/wiki/hardware' }
           ]
         }
       ],
